@@ -8,12 +8,23 @@ Organizerforme will stay on website domain organizerfor.me on my own debian serw
 
 ---
 
-**Features**
-- User functionality
+## Technology
+
+- Language: Python
+- Framework: Django
+- Database: PostgreSQL
+- HTML, CSS Library: Bootstrap
+
+---
+
+## Features
+
+- User account functionality
 - Money manage module
 - Calendar module
-- To do list
-- Notepad
+- To do list module
+- Notepad module
+- Share calendar events each other
 
 ---
 
